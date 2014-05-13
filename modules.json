@@ -1,7 +1,7 @@
 {
-    "chat.chatting_with": "Chat with <span id=\"chat-with-name\"></span>",
-    "chat.placeholder": "type chat message here, press enter to send",
-    "chat.send": "Send",
-    "chat.no_active": "You have no active chats.",
-    "chat.user_typing": "%1 is typing ..."
+    "chat.chatting_with": "<span id=\"chat-with-name\"></span>님과의 채팅",
+    "chat.placeholder": "여기에 메시지를 입력하세요.",
+    "chat.send": "전송",
+    "chat.no_active": "활성화된 채팅이 없습니다.",
+    "chat.user_typing": "%1님이 입력 중입니다."
 }
