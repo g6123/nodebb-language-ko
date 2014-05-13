@@ -8,7 +8,7 @@ nodebb-language-ko
 1. 리포지토리를 복제합니다.
    ```sh
    cd [NodeBB]/public/language/
-   git clone https://github.com/g6123/nodebb-theme-lavender-ko.git ko
+   git clone https://github.com/g6123/nodebb-language-ko.git ko
    ```
 
 2. 관리자 패널에서 언어를 'ko'로 설정합니다.
