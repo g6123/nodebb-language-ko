@@ -1,8 +1,8 @@
 {
-    "username": "Username / Email",
-    "remember_me": "Remember Me?",
-    "forgot_password": "Forgot Password?",
-    "alternative_logins": "Alternative Logins",
-    "failed_login_attempt": "Failed login attempt, please try again.",
-    "login_successful": "You have successfully logged in!"
+    "username": "사용자 이름 / 이메일",
+    "remember_me": "로그인 유지",
+    "forgot_password": "비밀번호 찾기",
+    "alternative_logins": "다른 방법으로 로그인",
+    "failed_login_attempt": "로그인에 실패했습니다.",
+    "login_successful": "성공적으로 로그인했습니다."
 }
