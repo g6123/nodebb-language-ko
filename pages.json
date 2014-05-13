@@ -1,15 +1,15 @@
 {
-    "home": "Home",
-    "unread": "Unread Topics",
-    "popular": "Popular Topics",
-    "recent": "Recent Topics",
-    "users": "Registered Users",
-    "notifications": "Notifications",
+    "home": "홈",
+    "unread": "읽지 않은 주제",
+    "popular": "인기 주제",
+    "recent": "최근 주제",
+    "users": "사용자",
+    "notifications": "알림",
     "user.edit": "Editing \"%1\"",
-    "user.following": "People %1 Follows",
-    "user.followers": "People who Follow %1",
-    "user.posts": "Posts made by %1",
-    "user.topics": "Topics created by %1",
-    "user.favourites": "%1's Favorite Posts",
-    "user.settings": "User Settings"
+    "user.following": "%1님이 팔로우하는 사용자",
+    "user.followers": "%1님을 팔로우하는 사용자",
+    "user.posts": "%1님이 작성한 게시물",
+    "user.topics": "%1님이 생성한 주제",
+    "user.favourites": "%1님의 관심글",
+    "user.settings": "사용자 설정"
 }
