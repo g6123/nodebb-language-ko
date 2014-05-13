@@ -1,7 +1,7 @@
 nodebb-language-ko
 ==================
 
-이 패키지는 [NodeBB]https://github.com/designcreateplay/NodeBB)를 위한 언어팩입니다.
+이 패키지는 [NodeBB](https://github.com/designcreateplay/NodeBB)를 위한 언어팩입니다.
 
 설치
 ----

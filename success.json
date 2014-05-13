@@ -1,6 +1,6 @@
 {
-    "success": "Success",
-    "topic-post": "You have successfully posted.",
-    "authentication-successful": "Authentication Successful",
-    "settings-saved": "Settings saved!"
+    "success": "성공",
+    "topic-post": "성공적으로 게시물을 작성했습니다.",
+    "authentication-successful": "인증에 성공했습니다.",
+    "settings-saved": "설정을 저장했습니다."
 }
