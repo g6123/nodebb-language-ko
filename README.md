@@ -11,4 +11,4 @@ nodebb-language-ko
    git clone https://github.com/g6123/nodebb-language-ko.git ko
    ```
 
-2. 관리자 패널에서 언어를 'ko'로 설정합니다.
+2. 관리자 패널에서 언어를 '한국어 (ko)'로 설정합니다.
