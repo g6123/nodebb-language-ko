@@ -9,6 +9,14 @@ nodebb-language-ko
    ```sh
    cd [NodeBB]/public/language/
    git clone https://github.com/g6123/nodebb-language-ko.git ko
+   cd ko
+   git checkout v[NodeBB Version]
    ```
 
 2. 관리자 패널에서 언어를 '한국어 (ko)'로 설정합니다.
+
+지원 버전
+---------
+다음 버전의 NodeBB를 지원합니다. 이 목록은 계속 늘어납니다.
+
+* v0.4.3
